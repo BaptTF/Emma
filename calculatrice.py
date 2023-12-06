@@ -1,4 +1,5 @@
 from add import add
+from multiply import mul
 
 def calcul(a, b):
-    return add(a, b)
+    return mul(a, b)
