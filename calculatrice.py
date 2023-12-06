@@ -2,6 +2,7 @@ from add import add
 from multiply import mul
 
 def calcul(a, b):
+    print("j'aime emma")
     return mul(a, b)
 
 def added(a, b):
